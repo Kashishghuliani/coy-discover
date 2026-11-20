@@ -1,0 +1,546 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "name": "Aarav",
+      "age": 22,
+      "place": "IIT Delhi",
+      "bio": "chai > coffee, fight me. will 100% beat you at chess ♟️",
+      "photo": "https://picsum.photos/seed/coy-1/600/800",
+      "interests": [
+        "🎵 Music",
+        "📚 Books",
+        "💃 Dance",
+        "🎧 Podcasts"
+      ],
+      "likedMe": true
+    },
+    {
+      "id": 2,
+      "name": "Meera",
+      "age": 21,
+      "place": "Delhi University",
+      "bio": "bookstore gremlin + pottery hobbyist. my mug collection has lore",
+      "photo": "https://picsum.photos/seed/coy-2/600/800",
+      "interests": [
+        "🧘 Yoga",
+        "🏏 Cricket",
+        "🚴 Cycling",
+        "🥾 Trekking"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 3,
+      "name": "Rohan",
+      "age": 24,
+      "place": "Gurugram",
+      "bio": "cycles at 6am so you don't have to. sourdough starter named Gary",
+      "photo": "https://picsum.photos/seed/coy-3/600/800",
+      "interests": [
+        "✍️ Poetry",
+        "🎤 Standup",
+        "📸 Photos",
+        "🎨 Art"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 4,
+      "name": "Ananya",
+      "age": 23,
+      "place": "Bengaluru",
+      "bio": "designer who sketches strangers on the metro. you're in my notes app now",
+      "photo": "https://picsum.photos/seed/coy-4/600/800",
+      "interests": [
+        "✈️ Travel",
+        "🎬 Films",
+        "☕ Coffee",
+        "🏺 Pottery"
+      ],
+      "likedMe": true
+    },
+    {
+      "id": 5,
+      "name": "Kabir",
+      "age": 25,
+      "place": "Mumbai",
+      "bio": "indie gigs, street food, dad jokes. green flag with a guitar",
+      "photo": "https://picsum.photos/seed/coy-5/600/800",
+      "interests": [
+        "🎮 Gaming",
+        "⚽ Football",
+        "🚀 Startups",
+        "🍳 Cooking"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 6,
+      "name": "Isha",
+      "age": 20,
+      "place": "Ashoka University",
+      "bio": "debate captain. i will argue about pineapple pizza but lovingly",
+      "photo": "https://picsum.photos/seed/coy-6/600/800",
+      "interests": [
+        "🎧 Podcasts",
+        "🎵 Music",
+        "📚 Books",
+        "💃 Dance"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 7,
+      "name": "Vihaan",
+      "age": 23,
+      "place": "Pune",
+      "bio": "touch grass? i touch mountains. sahyadri szn forever",
+      "photo": "https://picsum.photos/seed/coy-7/600/800",
+      "interests": [
+        "🥾 Trekking",
+        "🧘 Yoga",
+        "🏏 Cricket",
+        "🚴 Cycling"
+      ],
+      "likedMe": true
+    },
+    {
+      "id": 8,
+      "name": "Diya",
+      "age": 22,
+      "place": "Jaipur",
+      "bio": "block print obsessed, sunrise person (yes, voluntarily)",
+      "photo": "https://picsum.photos/seed/coy-8/600/800",
+      "interests": [
+        "🎨 Art",
+        "✍️ Poetry",
+        "🎤 Standup",
+        "📸 Photos"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 9,
+      "name": "Arjun",
+      "age": 26,
+      "place": "Hyderabad",
+      "bio": "dev by day, biryani critic by night. i review ur food order",
+      "photo": "https://picsum.photos/seed/coy-9/600/800",
+      "interests": [
+        "🏺 Pottery",
+        "✈️ Travel",
+        "🎬 Films",
+        "☕ Coffee"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 10,
+      "name": "Saanvi",
+      "age": 21,
+      "place": "Chandigarh",
+      "bio": "dancing in the kitchen is my cardio. join the choreo",
+      "photo": "https://picsum.photos/seed/coy-10/600/800",
+      "interests": [
+        "🍳 Cooking",
+        "🎮 Gaming",
+        "⚽ Football",
+        "🚀 Startups"
+      ],
+      "likedMe": true
+    },
+    {
+      "id": 11,
+      "name": "Reyansh",
+      "age": 24,
+      "place": "Kolkata",
+      "bio": "film club regular. satyajit ray stan, ask me why",
+      "photo": "https://picsum.photos/seed/coy-11/600/800",
+      "interests": [
+        "💃 Dance",
+        "🎧 Podcasts",
+        "🎵 Music",
+        "📚 Books"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 12,
+      "name": "Tara",
+      "age": 23,
+      "place": "Panipat",
+      "bio": "home baker, plant mom, night owl. my fern is thriving (unlike my sleep)",
+      "photo": "https://picsum.photos/seed/coy-12/600/800",
+      "interests": [
+        "🚴 Cycling",
+        "🥾 Trekking",
+        "🧘 Yoga",
+        "🏏 Cricket"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 13,
+      "name": "Ishaan",
+      "age": 22,
+      "place": "BITS Pilani",
+      "bio": "hackathons + 2am maggi = personality. rate my side project?",
+      "photo": "https://picsum.photos/seed/coy-13/600/800",
+      "interests": [
+        "📸 Photos",
+        "🎨 Art",
+        "✍️ Poetry",
+        "🎤 Standup"
+      ],
+      "likedMe": true
+    },
+    {
+      "id": 14,
+      "name": "Navya",
+      "age": 25,
+      "place": "Delhi",
+      "bio": "makes zines nobody asked for. playlist swap on date one?",
+      "photo": "https://picsum.photos/seed/coy-14/600/800",
+      "interests": [
+        "☕ Coffee",
+        "🏺 Pottery",
+        "✈️ Travel",
+        "🎬 Films"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 15,
+      "name": "Advait",
+      "age": 27,
+      "place": "Noida",
+      "bio": "photographer. i'll find ur good side (it's all of them)",
+      "photo": "https://picsum.photos/seed/coy-15/600/800",
+      "interests": [
+        "🚀 Startups",
+        "🍳 Cooking",
+        "🎮 Gaming",
+        "⚽ Football"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 16,
+      "name": "Kiara",
+      "age": 20,
+      "place": "Lady Shri Ram College",
+      "bio": "poetry slams + filter coffee. soft launch my feelings here",
+      "photo": "https://picsum.photos/seed/coy-16/600/800",
+      "interests": [
+        "📚 Books",
+        "💃 Dance",
+        "🎧 Podcasts",
+        "🎵 Music"
+      ],
+      "likedMe": true
+    },
+    {
+      "id": 17,
+      "name": "Dev",
+      "age": 24,
+      "place": "Ahmedabad",
+      "bio": "garba champ 3 yrs running. my dandiya has its own case",
+      "photo": "https://picsum.photos/seed/coy-17/600/800",
+      "interests": [
+        "🏏 Cricket",
+        "🚴 Cycling",
+        "🥾 Trekking",
+        "🧘 Yoga"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 18,
+      "name": "Myra",
+      "age": 22,
+      "place": "Shimla",
+      "bio": "mountains, mulled drinks, mixtapes. main character in the hills",
+      "photo": "https://picsum.photos/seed/coy-18/600/800",
+      "interests": [
+        "🎤 Standup",
+        "📸 Photos",
+        "🎨 Art",
+        "✍️ Poetry"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 19,
+      "name": "Samar",
+      "age": 23,
+      "place": "Lucknow",
+      "bio": "old-city food walks + urdu couplets. i'll romanticise ur chai",
+      "photo": "https://picsum.photos/seed/coy-19/600/800",
+      "interests": [
+        "🎬 Films",
+        "☕ Coffee",
+        "🏺 Pottery",
+        "✈️ Travel"
+      ],
+      "likedMe": true
+    },
+    {
+      "id": 20,
+      "name": "Zoya",
+      "age": 24,
+      "place": "Bhopal",
+      "bio": "marine bio nerd stuck far from the sea. send help (and octopus facts)",
+      "photo": "https://picsum.photos/seed/coy-20/600/800",
+      "interests": [
+        "⚽ Football",
+        "🚀 Startups",
+        "🍳 Cooking",
+        "🎮 Gaming"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 21,
+      "name": "Neil",
+      "age": 21,
+      "place": "Manipal",
+      "bio": "football, fusion music, fresh starts. my aux is elite",
+      "photo": "https://picsum.photos/seed/coy-21/600/800",
+      "interests": [
+        "🎵 Music",
+        "📚 Books",
+        "💃 Dance",
+        "🎧 Podcasts"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 22,
+      "name": "Riya",
+      "age": 26,
+      "place": "Gurugram",
+      "bio": "startup girlie who still makes time for pottery. work-life balance? maybe",
+      "photo": "https://picsum.photos/seed/coy-22/600/800",
+      "interests": [
+        "🧘 Yoga",
+        "🏏 Cricket",
+        "🚴 Cycling",
+        "🥾 Trekking"
+      ],
+      "likedMe": true
+    },
+    {
+      "id": 23,
+      "name": "Yash",
+      "age": 22,
+      "place": "Kurukshetra",
+      "bio": "ex-wrestler, yoga convert. flexibility is my love language",
+      "photo": "https://picsum.photos/seed/coy-23/600/800",
+      "interests": [
+        "✍️ Poetry",
+        "🎤 Standup",
+        "📸 Photos",
+        "🎨 Art"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 24,
+      "name": "Anika",
+      "age": 23,
+      "place": "Chennai",
+      "bio": "carnatic singer. ask me for a raga, get a whole concert 🎤",
+      "photo": "https://picsum.photos/seed/coy-24/600/800",
+      "interests": [
+        "✈️ Travel",
+        "🎬 Films",
+        "☕ Coffee",
+        "🏺 Pottery"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 25,
+      "name": "Parth",
+      "age": 25,
+      "place": "Surat",
+      "bio": "board game host. bring snacks or lose by default",
+      "photo": "https://picsum.photos/seed/coy-25/600/800",
+      "interests": [
+        "🎮 Gaming",
+        "⚽ Football",
+        "🚀 Startups",
+        "🍳 Cooking"
+      ],
+      "likedMe": true
+    },
+    {
+      "id": 26,
+      "name": "Pihu",
+      "age": 21,
+      "place": "Ambala",
+      "bio": "thrift queen. everything i own has a backstory and a bargain",
+      "photo": "https://picsum.photos/seed/coy-26/600/800",
+      "interests": [
+        "🎧 Podcasts",
+        "🎵 Music",
+        "📚 Books",
+        "💃 Dance"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 27,
+      "name": "Krish",
+      "age": 24,
+      "place": "Indore",
+      "bio": "poha evangelist + standup hobbyist. my roasts are consensual",
+      "photo": "https://picsum.photos/seed/coy-27/600/800",
+      "interests": [
+        "🥾 Trekking",
+        "🧘 Yoga",
+        "🏏 Cricket",
+        "🚴 Cycling"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 28,
+      "name": "Sia",
+      "age": 22,
+      "place": "Dehradun",
+      "bio": "rock climbing, rainy days, reading. low-key outdoorsy, high-key cozy",
+      "photo": "https://picsum.photos/seed/coy-28/600/800",
+      "interests": [
+        "🎨 Art",
+        "✍️ Poetry",
+        "🎤 Standup",
+        "📸 Photos"
+      ],
+      "likedMe": true
+    },
+    {
+      "id": 29,
+      "name": "Veer",
+      "age": 26,
+      "place": "Amritsar",
+      "bio": "dhaba road trips + dhol practice. my neighbours are thriving",
+      "photo": "https://picsum.photos/seed/coy-29/600/800",
+      "interests": [
+        "🏺 Pottery",
+        "✈️ Travel",
+        "🎬 Films",
+        "☕ Coffee"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 30,
+      "name": "Aditi",
+      "age": 25,
+      "place": "Mysuru",
+      "bio": "yoga teacher with a full ghibli collection. spirited away on repeat",
+      "photo": "https://picsum.photos/seed/coy-30/600/800",
+      "interests": [
+        "🍳 Cooking",
+        "🎮 Gaming",
+        "⚽ Football",
+        "🚀 Startups"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 31,
+      "name": "Rudra",
+      "age": 23,
+      "place": "Goa",
+      "bio": "surf at dawn, code by noon, nap by 2. 10/10 schedule",
+      "photo": "https://picsum.photos/seed/coy-31/600/800",
+      "interests": [
+        "💃 Dance",
+        "🎧 Podcasts",
+        "🎵 Music",
+        "📚 Books"
+      ],
+      "likedMe": true
+    },
+    {
+      "id": 32,
+      "name": "Mahi",
+      "age": 22,
+      "place": "Rohtak",
+      "bio": "cricket stats nerd + cold coffee addict. ask me about the 2011 final",
+      "photo": "https://picsum.photos/seed/coy-32/600/800",
+      "interests": [
+        "🚴 Cycling",
+        "🥾 Trekking",
+        "🧘 Yoga",
+        "🏏 Cricket"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 33,
+      "name": "Lakshya",
+      "age": 24,
+      "place": "Kochi",
+      "bio": "sailing, jazz, fish curry. i'm basically a sea shanty",
+      "photo": "https://picsum.photos/seed/coy-33/600/800",
+      "interests": [
+        "📸 Photos",
+        "🎨 Art",
+        "✍️ Poetry",
+        "🎤 Standup"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 34,
+      "name": "Ira",
+      "age": 21,
+      "place": "Jamia Millia",
+      "bio": "street photography + long walks. i'll take your candid, you'll love it",
+      "photo": "https://picsum.photos/seed/coy-34/600/800",
+      "interests": [
+        "☕ Coffee",
+        "🏺 Pottery",
+        "✈️ Travel",
+        "🎬 Films"
+      ],
+      "likedMe": true
+    },
+    {
+      "id": 35,
+      "name": "Ayaan",
+      "age": 27,
+      "place": "Delhi",
+      "bio": "chef in training. second date is dinner, i'm cooking 🍳",
+      "photo": "https://picsum.photos/seed/coy-35/600/800",
+      "interests": [
+        "🚀 Startups",
+        "🍳 Cooking",
+        "🎮 Gaming",
+        "⚽ Football"
+      ],
+      "likedMe": false
+    },
+    {
+      "id": 36,
+      "name": "Nisha",
+      "age": 23,
+      "place": "Karnal",
+      "bio": "volunteer teacher + amateur astronomer. we can stargaze, no pressure",
+      "photo": "https://picsum.photos/seed/coy-36/600/800",
+      "interests": [
+        "📚 Books",
+        "💃 Dance",
+        "🎧 Podcasts",
+        "🎵 Music"
+      ],
+      "likedMe": false
+    }
+  ],
+  "swipes": [],
+  "matches": []
+}

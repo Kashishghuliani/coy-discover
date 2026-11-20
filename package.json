@@ -1,0 +1,10 @@
+{
+  "name": "coy-discover",
+  "private": true,
+  "scripts": {
+    "install:all": "npm install --prefix server && npm install --prefix client",
+    "dev": "concurrently -n api,web \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "start:server": "npm start --prefix server"
+  },
+  "devDependencies": { "concurrently": "^9.0.1" }
+}
